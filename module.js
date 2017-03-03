@@ -1,1 +1,1 @@
-angular.module("TriviaGalore", [])
+angular.module("TriviaGalore", []); 
